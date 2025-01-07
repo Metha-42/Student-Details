@@ -37,15 +37,6 @@ public class Adding {
 		
 		System.out.println("Student Average  Is"+" "+avg);
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	}
 	
 	
